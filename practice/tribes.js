@@ -128,10 +128,6 @@ class BattleDogs {
     tRENEROFCKA() {
         this.trainingLvl += 1;
     }
-    attack(target) {
-        console.log(`${this.name} атакует ${target.name}`);
-    }
-
 }
 
 // класс оружия
