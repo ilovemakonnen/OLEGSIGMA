@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "oop_lectures_0123",
+=======
+  "name": "oop_lesson",
+>>>>>>> fabbf6551327d3a41b407ec765b593e05204b2e0
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",

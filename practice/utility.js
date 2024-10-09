@@ -153,5 +153,5 @@ const backToClass = (nameToFind) => {
 };
 
 // если предмет передали какому-то аборигену,то этот предмет удаляется из item
-// продумать механику перестрелки 
+// 
 export {createData, backToClass, readData, addItem}
